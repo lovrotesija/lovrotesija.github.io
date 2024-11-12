@@ -1,0 +1,11 @@
+C:\Users\tesij\source\repos\dz1oop\knjiznica\bin\Debug\net8.0\knjiznica.deps.json
+C:\Users\tesij\source\repos\dz1oop\knjiznica\bin\Debug\net8.0\knjiznica.dll
+C:\Users\tesij\source\repos\dz1oop\knjiznica\bin\Debug\net8.0\knjiznica.pdb
+C:\Users\tesij\source\repos\dz1oop\knjiznica\obj\Debug\net8.0\knjiznica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tesij\source\repos\dz1oop\knjiznica\obj\Debug\net8.0\knjiznica.AssemblyInfoInputs.cache
+C:\Users\tesij\source\repos\dz1oop\knjiznica\obj\Debug\net8.0\knjiznica.AssemblyInfo.cs
+C:\Users\tesij\source\repos\dz1oop\knjiznica\obj\Debug\net8.0\knjiznica.csproj.CoreCompileInputs.cache
+C:\Users\tesij\source\repos\dz1oop\knjiznica\obj\Debug\net8.0\knjiznica.dll
+C:\Users\tesij\source\repos\dz1oop\knjiznica\obj\Debug\net8.0\refint\knjiznica.dll
+C:\Users\tesij\source\repos\dz1oop\knjiznica\obj\Debug\net8.0\knjiznica.pdb
+C:\Users\tesij\source\repos\dz1oop\knjiznica\obj\Debug\net8.0\ref\knjiznica.dll
